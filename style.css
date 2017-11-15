@@ -1,0 +1,35 @@
+#topcon{
+background-color: rgb(37, 62, 143);
+width:970px;
+height: 600px;
+display:inline-block;
+}
+.yellink{
+    display:inline;
+    vertical-align:top;
+    
+}
+.tctxt{
+    display:inline;
+    vertical-align:top;
+    position:right;
+    margin-left:200px;
+}
+#divider{
+    display:inline;
+    vertical-align:top;
+    position:right;
+}
+#searchbar{ 
+    width:200px;
+    height:100px; 
+    background-color:rgb(29, 28, 28);
+    padding:10 10 10 10;  
+    display:block-inline;
+    margin-left:200px;
+    position:right;
+    align-content: center;
+}
+button{
+    display:inline;
+}
